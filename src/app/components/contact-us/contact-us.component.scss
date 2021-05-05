@@ -1,0 +1,33 @@
+.content {
+    direction: rtl;
+    display: flex;
+    margin: 10px auto 32px;
+    padding: 0 16px;
+    max-width: 960px;
+    flex-direction: column;
+ 
+  }
+
+  .single{
+      direction: rtl;
+      margin-bottom: 10px;
+  }
+
+  input.message {
+      width: 300px;
+      height: 200px
+}
+
+.text-form{
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn {
+   padding-right: 15px;
+   padding-left: 15px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   font-weight: bold;
+   border-radius: 10px;
+}
